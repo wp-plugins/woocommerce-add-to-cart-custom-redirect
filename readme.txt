@@ -22,7 +22,7 @@ This section describes how to install the plugin and get it working.
 
 <h2>Manually</h2>
 
-1. Download the zip file and upload `woocommerce-category-redirect` to the `/wp-content/plugins/` directory
+1. Download the zip file and upload `woocommerce-custom-redirect` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
