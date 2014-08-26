@@ -1,0 +1,5 @@
+This plugin is licensed under the GNU General Public License, Version 2. It is free code and you may do with it what you wish. 
+
+Attributions are appreciated but not required. 
+
+For other awesome WordPress information, feel free to visit EngageWP.com
