@@ -29,7 +29,7 @@ This section describes how to install the plugin and get it working.
 
 = How do I use this plugin? =
 
-Install, activate, and paste your URL into the General Product Data tab. If you are want to utilize the redirect feature on product archive pages, make sure to uncheck the "Enable AJAX add to cart buttons on archives" checkbox under the WooCommerce settings Products tab.
+Install, activate, and paste your URL into the Redirect on Add to Cart field under the General product data tab. If you want to utilize the redirect feature on product archive pages, make sure to uncheck the "Enable AJAX add to cart buttons on archives" checkbox under the WooCommerce settings Products tab.
 
 = Do you offer support for this plugin? =
 
