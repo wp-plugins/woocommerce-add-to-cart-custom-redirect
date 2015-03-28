@@ -4,7 +4,7 @@
  * Plugin URI: http://www.engagewp.com/
  * Description: Redirect customers to a defined URL after a WooCommerce product is added to the cart.
  * Author: Ren Ventura
- * Author URI: http://ww.engagewp.com
+ * Author URI: http://www.engagewp.com
  * Version: 1.2
  * License: GPL 2.0
  * Text Domain: woocommerce
