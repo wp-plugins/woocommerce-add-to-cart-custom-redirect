@@ -41,6 +41,9 @@ This plugin is very simple so it's unlikely you'll need support. If you do have 
 
 == Changelog ==
 
+= 1.2 =
+* Replaced deprecated add_to_cart_redirect filter with woocommerce_add_to_cart_redirect
+
 = 1.1 =
 * Added support for redirects on product archive pages
 
