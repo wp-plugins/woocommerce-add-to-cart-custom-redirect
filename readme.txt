@@ -34,7 +34,7 @@ Install, activate, and paste your URL into the Redirect on Add to Cart field und
 
 = Do you offer support for this plugin? =
 
-This plugin is very simple so it's unlikely you'll need support. If you do have any questions, feel free to <a href="http://engagewp.com/contact" target="_blank">email me</a>. 
+This plugin is very simple so it's unlikely you'll need support. If you do have any questions, feel free to <a href="http://www.engagewp.com/contact" target="_blank">email me</a>. 
 
 == Screenshots ==
 
