@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Woocommerce Add-to-Cart Custom Redirect
- * Plugin URI: http://engagewp.com/woocommerce-add-to-cart-custom-redirect
+ * Plugin URI: http://www.engagewp.com/
  * Description: Redirect customers to a defined URL after a WooCommerce product is added to the cart.
  * Author: Ren Ventura
  * Author URI: http://ww.engagewp.com
